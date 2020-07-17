@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true)
+I can work really well when it comes to Computer Vision, Python projects, and anything with C++/C and Linux, from creating custom DNNs to creating a high performance gRPC server/client with MongoDB in C++, I am the guy for it.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **satyajitghana/satyajitghana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
