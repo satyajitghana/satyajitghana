@@ -6,7 +6,7 @@ Example:
 """
 
 UNIVERSITY_WORK_TEMPLATE = Template(
-    "![sem-$sem_no](https://img.shields.io/static/v1?label=University%20Work&message=SEMESTER%20$sem_no&style=for-the-badge&logo=Microsoft%20OneNote&link=$link&link=$link&logoColor=violet&logoWidth=20&color=$color&labelColor=$label_color)"
+    "[![sem-$sem_no](https://img.shields.io/static/v1?label=University%20Work&message=SEMESTER%20$sem_no&style=for-the-badge&logo=Microsoft%20OneNote&link=$link&link=$link&logoColor=violet&logoWidth=20&color=$color&labelColor=$label_color)]($link)"
 )
 
 GRUVBOX_COLORS = ['fb4934', 'b8bb26', 'fabd2f',
