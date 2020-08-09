@@ -4,27 +4,13 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=satyajitghana&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 ---
 
 ## Resume [https://github.com/satyajitghana/resume](https://github.com/satyajitghana/resume)
 
-## University Work
+## [University Work](university-work.md)
 
 Contains everything that i did during my time at RUAS
-
-[University Work - Semester 01](https://github.com/satyajitghana/University-Work-SEM-01)
-
-[University Work - Semester 02](https://github.com/satyajitghana/University-Work-SEM-02)
-
-[University Work - Semester 03](https://github.com/satyajitghana/University-Work-SEM-03)
-
-[University Work - Semester 04](https://github.com/satyajitghana/University-Work-SEM-04)
-
-[University Work - Semester 05](https://github.com/satyajitghana/University-Work-SEM-05)
-
-[University Work - Semester 06](https://github.com/satyajitghana/University-Work-SEM-06)
 
 https://github.com/satyajitghana/ruas-lms
 
