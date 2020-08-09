@@ -1,12 +1,16 @@
 # Deep Learning - Computer Vision - Machine Learning
 
-## [![padhai-course](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Course&labelColor=1d2021&message=PadhAI-Course&color=fb4934&style=for-the-badge)](https://github.com/satyajitghana/PadhAI-Course)
+## [![tsai-deepvision-eva4.0](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Course&labelColor=1d2021&message=TSAI-DeepVision-EVA4.0&color=9d0006&style=for-the-badge)](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0)
 
-## [![pysodium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=PySodium&color=79740e&style=for-the-badge)](https://github.com/satyajitghana/PySodium)
+## [![tsai-deepvision-eva4.0-phase-2](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Course&labelColor=1d2021&message=TSAI-DeepVision-EVA4.0-Phase-2&color=fb4934&style=for-the-badge)](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2)
 
-## [![indiagdpprediction](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project/ML&labelColor=1d2021&message=IndiaGDPPrediction&color=076678&style=for-the-badge)](https://github.com/satyajitghana/IndiaGDPPrediction)
+## [![padhai-course](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Course&labelColor=1d2021&message=PadhAI-Course&color=79740e&style=for-the-badge)](https://github.com/satyajitghana/PadhAI-Course)
 
-## [![projektiodine](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Hackathon&labelColor=1d2021&message=ProjektIodine&color=83a598&style=for-the-badge)](https://github.com/satyajitghana/ProjektIodine)
+## [![pysodium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=PySodium&color=076678&style=for-the-badge)](https://github.com/satyajitghana/PySodium)
 
-## [![projektcerium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project/CV&labelColor=1d2021&message=ProjektCerium&color=d3869b&style=for-the-badge)](https://github.com/satyajitghana/ProjektCerium)
+## [![indiagdpprediction](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project/ML&labelColor=1d2021&message=IndiaGDPPrediction&color=af3a03&style=for-the-badge)](https://github.com/satyajitghana/IndiaGDPPrediction)
+
+## [![projektiodine](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Hackathon&labelColor=1d2021&message=ProjektIodine&color=af3a03&style=for-the-badge)](https://github.com/satyajitghana/ProjektIodine)
+
+## [![projektcerium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project/CV&labelColor=1d2021&message=ProjektCerium&color=b57614&style=for-the-badge)](https://github.com/satyajitghana/ProjektCerium)
 

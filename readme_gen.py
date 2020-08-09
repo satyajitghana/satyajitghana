@@ -100,14 +100,14 @@ def gen_university_work():
 def gen_cv_deeplearning():
     md_file = open('cv_deeplearning.md', 'w+')
 
-    project_names = {'Course': 'TSAI-DeepVision-EVA4.0',
-                     'Course': 'TSAI-DeepVision-EVA4.0-Phase-2',
-                     'Course': 'PadhAI-Course',
-                     'Project': 'PySodium',
-                     'Project/ML': 'IndiaGDPPrediction',
-                     'Hackathon': 'ProjektIodine',
-                     'Project/CV': 'ProjektCerium'
-                     }
+    project_names = [('Course', 'TSAI-DeepVision-EVA4.0'),
+                     ('Course', 'TSAI-DeepVision-EVA4.0-Phase-2'),
+                     ('Course', 'PadhAI-Course'),
+                     ('Project', 'PySodium'),
+                     ('Project/ML', 'IndiaGDPPrediction'),
+                     ('Hackathon', 'ProjektIodine'),
+                     ('Project/CV', 'ProjektCerium')
+                     ]
 
     project_texts = [
         '## ' +
@@ -121,7 +121,7 @@ def gen_cv_deeplearning():
             link=URL_TEMPLATE.substitute(repo_name=proj_name)
         ) + '\n\n'
 
-        for proj_type, proj_name in project_names.items()
+        for proj_type, proj_name in project_names
     ]
 
     md_file.writelines(

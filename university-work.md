@@ -18,11 +18,11 @@ These are all the Assignments(do check them out) and Lab Records made during my 
 
 I had done a few projects as well, which are showcased here
 
-[![ruas-lms](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ruas-lms&color=427b58&style=for-the-badge)](https://github.com/satyajitghana/ruas-lms)
+[![ruas-lms](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ruas-lms&color=d3869b&style=for-the-badge)](https://github.com/satyajitghana/ruas-lms)
 
-[![projektzirconium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektZirconium&color=9d0006&style=for-the-badge)](https://github.com/satyajitghana/ProjektZirconium)
+[![projektzirconium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektZirconium&color=fe8019&style=for-the-badge)](https://github.com/satyajitghana/ProjektZirconium)
 
-[![projektbarium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektBarium&color=8ec07c&style=for-the-badge)](https://github.com/satyajitghana/ProjektBarium)
+[![projektbarium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektBarium&color=fabd2f&style=for-the-badge)](https://github.com/satyajitghana/ProjektBarium)
 
-[![projektplutus](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektPlutus&color=8ec07c&style=for-the-badge)](https://github.com/satyajitghana/ProjektPlutus)
+[![projektplutus](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektPlutus&color=ebdbb2&style=for-the-badge)](https://github.com/satyajitghana/ProjektPlutus)
 
