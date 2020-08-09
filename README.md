@@ -25,17 +25,17 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 
 ## [Resume](https://github.com/satyajitghana/resume)
 
-## [University Work](university-work.md)
+## [University Work](https://github.com/satyajitghana/satyajitghana/blob/master/university-work.md)
 
-## [Computer Vision and Deep Learning](cv_deeplearning.md)
+## [Computer Vision and Deep Learning](https://github.com/satyajitghana/satyajitghana/blob/master/cv_deeplearning.md)
 
 ## Languages
 
-- ### [C/C++](c-cpp.md)
-- ### [Python](python.md)
-- ### [JavaScript](javascript.md)
+- ### [C/C++](https://github.com/satyajitghana/satyajitghana/blob/master/c-cpp.md)
+- ### [Python](https://github.com/satyajitghana/satyajitghana/blob/master/python.md)
+- ### [JavaScript](https://github.com/satyajitghana/satyajitghana/blob/master/javascript.md)
 
-## [Competitive Programming](competitive_programming.md)
+## [Competitive Programming](https://github.com/satyajitghana/satyajitghana/blob/master/competitive_programming.md)
 
 ## Packages i've developed
 
@@ -52,3 +52,9 @@ https://github.com/satyajitghana/chocolatey-opencv
 - [My Dot Files](https://github.com/satyajitghana/my-dotfiles)
 - [Lambda Calculus](https://github.com/satyajitghana/LambdaCalculus)
 - [Workshops](https://github.com/satyajitghana/Workshops)
+
+---
+
+<p align="center">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+</p>
