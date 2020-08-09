@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-    <img src="cat.gif" />
+    <img src="https://github.com/satyajitghana/satyajitghana/raw/master/cat.gif" />
 </p>
 
 <p align="center">
