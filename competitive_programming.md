@@ -6,4 +6,4 @@
 
 ## Project Euler
 
-![project-euler](https://projecteuler.net/profile/satyajitghana.png)
+![project-euler](https://projecteuler.net/profile/satyajitghanad.png)
