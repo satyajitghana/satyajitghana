@@ -15,7 +15,7 @@
 </p>
 
 <font size="+1.5">
-I can work really well when it comes to Computer Vision, Python projects, and anything with C++/C and Linux, from creating custom DNNs to creating a high performance gRPC server/client with MongoDB in C++, I am the guy for it.
+I can work really well when it comes to Computer Vision, Python projects, and anything with C++/C and Linux, from creating custom DNNs and creating a deployment pipeline to creating a high performance gRPC server/client with MongoDB in C++, I am the guy for it.
 </font>
 
 <p align="center">
