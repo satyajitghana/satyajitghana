@@ -22,6 +22,10 @@ I can work really well when it comes to Computer Vision, Python projects, and an
     <img src="https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c">
 </p>
 
+---
+
+<a href="https://satyajitghana.github.io/" target="_blank" rel="noopener noreferrer"><h1 align="center">Website: satyajitghana.github.io</h1>
+
 <p align="center">
     <code>PS: click on the badges to view meowre about it</code>
 </p>
