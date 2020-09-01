@@ -24,7 +24,11 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 
 ---
 
-<a href="https://satyajitghana.github.io/" target="_blank" rel="noopener noreferrer"><h1 align="center">Website: satyajitghana.github.io</h1>
+<h1 align="center">
+    <a href="https://satyajitghana.github.io/" target="_blank" rel="noopener noreferrer">
+    Website: satyajitghana.github.io
+    </a>
+</h1>
 
 <p align="center">
     <code>PS: click on the badges to view meowre about it</code>
