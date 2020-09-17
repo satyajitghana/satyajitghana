@@ -24,6 +24,10 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 
 ---
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=satyajitghana" alt="satyajitghana" />
+</p>
+
 <h1 align="center">
     <a href="https://satyajitghana.github.io/" target="_blank" rel="noopener noreferrer">
     Website: satyajitghana.github.io
