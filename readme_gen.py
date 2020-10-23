@@ -62,7 +62,7 @@ def gen_university_work():
             message=f'SEMESTER%20{sem_no:02}',
             message_color=color,
             link=URL_TEMPLATE.substitute(
-                repo_name=f'University-Work-SEM{sem_no:02}')
+                repo_name=f'University-Work-SEM-{sem_no:02}')
         ) + '\n\n'
 
         for sem_no, color in zip(sem_nos, GRUVBOX_COLORS)
