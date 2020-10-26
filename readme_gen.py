@@ -51,7 +51,7 @@ def urlify(s):
 def gen_university_work():
     md_file = open('university-work.md', 'w+')
 
-    sem_nos = [1, 2, 3, 4, 5, 6]
+    sem_nos = [1, 2, 3, 4, 5, 6, 7]
 
     university_work_texts = [
         SHIELD_TEMPLATE.substitute(
