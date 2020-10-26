@@ -41,8 +41,8 @@ jobs:
       run: |
         echo ${{ github.ref }}
         git add .
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "satyajitghana7@gmail.com"
+        git config --local user.name "Satyajit Ghana Actions"
         git commit -m "ci: Automated build push" -a | exit 0
     - name: Push changes
       if: github.ref == 'refs/heads/master'
