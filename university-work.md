@@ -22,9 +22,9 @@ I had done a few projects as well, which are showcased here
 
 [![ruas-lms](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ruas-lms&color=fe8019&style=for-the-badge)](https://github.com/satyajitghana/ruas-lms)
 
-[![projektzirconium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektZirconium&color=b8bb26&style=for-the-badge)](https://github.com/satyajitghana/ProjektZirconium)
+[![projektzirconium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektZirconium&color=fe8019&style=for-the-badge)](https://github.com/satyajitghana/ProjektZirconium)
 
-[![projektbarium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektBarium&color=076678&style=for-the-badge)](https://github.com/satyajitghana/ProjektBarium)
+[![projektbarium](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektBarium&color=b57614&style=for-the-badge)](https://github.com/satyajitghana/ProjektBarium)
 
-[![projektplutus](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektPlutus&color=fb4934&style=for-the-badge)](https://github.com/satyajitghana/ProjektPlutus)
+[![projektplutus](https://img.shields.io/static/v1?logo=Github&logoColor=violet&logoWidth=20&label=Project&labelColor=1d2021&message=ProjektPlutus&color=8f3f71&style=for-the-badge)](https://github.com/satyajitghana/ProjektPlutus)
 
