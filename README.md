@@ -26,6 +26,14 @@ I can work really well when it comes to Computer Vision, Python projects, and an
     <img src="https://github-readme-stats.vercel.app/api?username=satyajitghana&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitghana&theme=nord">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord">
+</p>
+
 ---
 
 <p align="center">
