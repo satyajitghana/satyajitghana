@@ -118,6 +118,15 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 - [Lambda Calculus](https://github.com/satyajitghana/LambdaCalculus)
 - [Workshops](https://github.com/satyajitghana/Workshops)
 
+
+---
+
+Here's a random cat gif
+
+<p align="center">
+    <img src="https://cataas.com/cat/gif">
+</p>
+
 ---
 
 <p align="center">
