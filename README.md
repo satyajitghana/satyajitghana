@@ -98,9 +98,13 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 
 ---
 
-## Packages i've developed
+## Packages i've developed / Worked on
 
-https://github.com/satyajitghana/chocolatey-opencv
+- [beamer](https://github.com/satyajitghana/beamer)
+- [tensorrt_demos](https://github.com/satyajitghana/tensorrt_demos)
+- [yoyo_player](https://github.com/satyajitghana/yoyo-player)
+- [flutter_rtmp_publisher](https://github.com/satyajitghana/flutter_rtmp_publisher)
+- [chocolatey-opencv](https://github.com/satyajitghana/chocolatey-opencv)
 
 ## NPTEL Courses
 
