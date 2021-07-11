@@ -35,3 +35,17 @@ jobs:
           # path of the generated svg file
           # If left empty, the svg file will not be generated
           svg_out_path: dist/github-snake.svg
+          
+      - name: Commit files
+        run: |
+          echo ${{ github.ref }}
+          git add .
+          git config --local user.email "satyajitghana7@gmail.com"
+          git config --local user.name "Satyajit Ghana Actions"
+          git commit -m "ci: Automated Snake-GIF build" -a | exit 0
+          
+      - name: Push changes
+        if: github.ref == 'refs/heads/master'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
