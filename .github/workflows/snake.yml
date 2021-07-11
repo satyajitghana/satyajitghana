@@ -14,7 +14,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  create-snake:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -26,7 +26,7 @@ jobs:
       - uses: Platane/snk@master
         with:
           # github user name to read the contribution graph from (**required**)
-          github_user_name: platane
+          github_user_name: satyajitghana
 
           # path of the generated gif file
           # If left empty, the gif file will not be generated
