@@ -37,6 +37,12 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 ---
 
 <p align="center">
+    <img src="https://github.com/satyajitghana/satyajitghana/blob/master/dist/github-snake.gif?raw=true">
+</p>
+
+---
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=satyajitghana" alt="satyajitghana" />
 </p>
 
