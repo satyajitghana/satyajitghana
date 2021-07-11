@@ -37,7 +37,7 @@ I can work really well when it comes to Computer Vision, Python projects, and an
 ---
 
 <p align="center">
-    <img src="https://github.com/satyajitghana/satyajitghana/blob/master/dist/github-snake.gif?raw=true">
+    <img src="https://github.com/satyajitghana/satyajitghana/blob/master/dist/github-snake.svg?raw=true">
 </p>
 
 ---
